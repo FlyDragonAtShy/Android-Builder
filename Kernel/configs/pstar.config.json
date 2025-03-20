@@ -5,7 +5,7 @@
       "repo": "https://github.com/vullk4n/kernel_motorola_sm8250.git",
       "branch": "v-15.0",
       "device": "pstar",
-      "defconfig": "vender/kona-perf_defconfig"
+      "defconfig": "vendor/kona-perf_defconfig"
     },
     "toolchains": [
       {
